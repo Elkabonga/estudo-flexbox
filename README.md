@@ -1,3 +1,4 @@
 # estudo-flexbox
 
-exercicios elaborados por colegas de trabalho e executados por mim
+Crie um Hello World com React Native e insira o codigo arquivo App.js para funcionar
+
